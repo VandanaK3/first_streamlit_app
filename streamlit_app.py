@@ -7,5 +7,5 @@ streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('Avacado toast')
 
                
-               
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')               
 
